@@ -21,6 +21,9 @@ Check it out here by clicking on the badge below
 ```
 
 
+### Linear Regression
+
+https://mybinder.org/v2/gh/Grant-Steinfeld/conda/593bc43f624d23d7af9d0ee6e45d8c6b360a5fe3
 
 
 ## Notes
