@@ -29,7 +29,7 @@ https://mybinder.org/v2/gh/Grant-Steinfeld/conda/593bc43f624d23d7af9d0ee6e45d8c6
 
 
 ## Notes
-[create custom Binder links[(https://mybinder.readthedocs.io/en/latest/howto/badges.html)
+[create custom Binder links](https://mybinder.readthedocs.io/en/latest/howto/badges.html)
 
 [add Binder badges with GitHub Actions pull requests](https://mybinder.readthedocs.io/en/latest/howto/gh-actions-badges.html)
 
