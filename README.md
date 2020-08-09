@@ -2,6 +2,9 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
 
+## Word Count
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Grant-Steinfeld/conda.git/master?filepath=word-count%2Fword-count.ipynb)
+
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
