@@ -21,9 +21,7 @@ Check it out here by clicking on the badge below
 ```
 
 
-### Linear Regression
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Grant-Steinfeld/conda/master?filepath=regression%2Flinear%2FLinear_regression.ipynb)
+[Linear Regression](https://mybinder.org/v2/gh/Grant-Steinfeld/conda/c5d1b5db8b280abea12c03f99e8ff52fd9afc742)
 
 ## Notes
 [create custom Binder links](https://mybinder.readthedocs.io/en/latest/howto/badges.html)
